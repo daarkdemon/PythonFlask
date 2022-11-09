@@ -1,4 +1,15 @@
 body {
     font-family: 'Courier New';
     font-size: 20px;
+    text-align: center;
 }
+
+table, th, td {
+    text-align: center;
+    border: 1px solid;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+  }
